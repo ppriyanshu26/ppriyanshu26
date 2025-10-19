@@ -30,32 +30,24 @@
 
 ---
 
-## 📋 Featured Project
+## 📋 Featured Projects
 
-### 🏥 [DocDispatch](https://github.com/yashpreeto7/DocDispatch)
-**Android Developer, Cloud-Backend Developer** | *July 2025 - Ongoing*
+<div align="center">
+  <a href="https://github.com/yashpreeto7/DocDispatch" target="_blank">
+    <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=yashpreeto7&repo=DocDispatch&theme=react&border_color=61dafb&border_radius=10" />
+  </a>
+  <a href="https://github.com/ppriyanshu26/SentimentAnalyzer" target="_blank">
+    <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ppriyanshu26&repo=SentimentAnalyzer&theme=react&border_color=61dafb&border_radius=10" />
+  </a>
+</div>
 
-- 🔐 Architected an Android healthcare platform with **OTP-based authentication**, handling **1M+ secure verifications monthly** with robust reliability and low-latency data processing
+<br>
 
-**Tech Stack:** `Android` `Cloud Backend` `Authentication` `Database Management`
-
----
-
-### 📊 [App Sentiment Analyzer](https://github.com/ppriyanshu26/SentimentAnalyzer)
-**ML Engineer, Flask Developer** | *October 2025*
-
-- 🎯 Designed a fully interactive **Flask-based web application** fetching the latest **100 Play Store reviews** with real-time sentiment analysis and actionable insights
-
-**Tech Stack:** `Python` `Flask` `Machine Learning` `NLP` `Web Development`
-
----
-
-### 🔐 [TOTP Desktop Authenticator](https://github.com/ppriyanshu26/AuthPublic)
-**Windows App Developer** | *September 2025*
-
-- ⏱️ Built a **Tkinter-based desktop suite** for OTP generation, QR encryption, and secure authentication, reducing authentication time by **50%** versus mobile apps
-
-**Tech Stack:** `Python` `Tkinter` `AES-256 Encryption` `GitHub API`
+<div align="center">
+  <a href="https://github.com/ppriyanshu26/AuthPublic" target="_blank">
+    <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ppriyanshu26&repo=AuthPublic&theme=react&border_color=61dafb&border_radius=10" />
+  </a>
+</div>
 
 ---
 
