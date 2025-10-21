@@ -30,27 +30,6 @@
 
 ---
 
-## 📋 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/yashpreeto7/DocDispatch" target="_blank">
-    <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=yashpreeto7&repo=DocDispatch&theme=react&border_color=61dafb&border_radius=10" />
-  </a>
-  <a href="https://github.com/ppriyanshu26/SentimentAnalyzer" target="_blank">
-    <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ppriyanshu26&repo=SentimentAnalyzer&theme=react&border_color=61dafb&border_radius=10" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/ppriyanshu26/AuthPublic" target="_blank">
-    <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ppriyanshu26&repo=AuthPublic&theme=react&border_color=61dafb&border_radius=10" />
-  </a>
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
