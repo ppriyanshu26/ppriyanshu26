@@ -60,7 +60,7 @@ Up for a game of chess? Challenge me on Chess.com: [ppriyanshu26](https://www.ch
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![OracleDB](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
 ### 🤖 AI/ML & Data Science
@@ -77,23 +77,24 @@ Up for a game of chess? Challenge me on Chess.com: [ppriyanshu26](https://www.ch
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white)
 
 ---
 
 ## 🏅 Certifications
 
-| Title | Issuer | Issued | Credential / Link |
-|---|---|---:|---|
-| Data Structures & Algorithms | AlgoExpert | Apr 2026 | [Certificate](https://certificate.algoexpert.io/AE-123d590f74) |
-| Marketing Analytics | IIT Kharagpur (SWAYAM) | May 2025 | [Certificate](https://archive.nptel.ac.in/content/noc/NOC25/SEM1/Ecertificates/110/noc25-mg45/Course/NPTEL25MG45S114280183404713551.pdf) |
-| Data Science | iamneo (NIIT) | Apr 2025 | [Certificate](https://drive.google.com/file/d/13OnJ0YanOgAibcNiZ2WBm113PqxVS4Ie/view?usp=sharing) |
-| Cyber Security Analyst | IBM | Apr 2025 | [Certificate](https://courses.ibmcep.cognitiveclass.ai/certificates/c193fe199bc94fb79aa6c794c9fa4cbe) |
-| Cloud Computing | IIT Kharagpur (SWAYAM) | May 2024 | [Certificate](https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/106/noc24-cs17/Course/NPTEL24CS17S35290010730645933.pdf) |
-| The Bits & Bytes of Computer Networking | Google (Coursera) | Dec 2023 | [Certificate](https://coursera.org/share/c120239ab839b7634be8d3c9f5a4025c) |
+| Title | Issuer | Issued |
+|---|---|---|
+| [Certificate of Completion](https://certificate.algoexpert.io/AE-123d590f74) | AlgoExpert | Apr 2026 |
+| [Marketing Analytics](https://archive.nptel.ac.in/content/noc/NOC25/SEM1/Ecertificates/110/noc25-mg45/Course/NPTEL25MG45S114280183404713551.pdf) | IIT Kharagpur (SWAYAM) | May 2025 |
+| [Data Science](https://drive.google.com/file/d/13OnJ0YanOgAibcNiZ2WBm113PqxVS4Ie/view?usp=sharing) | iamneo (NIIT) | Apr 2025 |
+| [Cyber Security Analyst](https://courses.ibmcep.cognitiveclass.ai/certificates/c193fe199bc94fb79aa6c794c9fa4cbe) | IBM | Apr 2025 |
+| [Cloud Computing](https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/106/noc24-cs17/Course/NPTEL24CS17S35290010730645933.pdf) | IIT Kharagpur (SWAYAM) | May 2024 |
+| [The Bits & Bytes of Computer Networking](https://coursera.org/share/c120239ab839b7634be8d3c9f5a4025c) | Google (Coursera) | Dec 2023 |
 
 ---
 
