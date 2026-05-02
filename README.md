@@ -89,6 +89,7 @@ Up for a game of chess? Challenge me on Chess.com: [ppriyanshu26](https://www.ch
 
 | Title | Issuer | Issued |
 |---|---|---|
+| [Career Essentials in Cybersecurity](https://www.linkedin.com/learning/certificates/838b1d6b4003bc099c6591eeb9297600b1ba3941e57305ae6d909923beac1109/?trk=share_certificate) | Microsoft (LinkedIn Learning) | May 2026 |
 | [Certificate of Completion](https://certificate.algoexpert.io/AE-123d590f74) | AlgoExpert | Apr 2026 |
 | [Marketing Analytics](https://archive.nptel.ac.in/content/noc/NOC25/SEM1/Ecertificates/110/noc25-mg45/Course/NPTEL25MG45S114280183404713551.pdf) | IIT Kharagpur (SWAYAM) | May 2025 |
 | [Data Science](https://drive.google.com/file/d/13OnJ0YanOgAibcNiZ2WBm113PqxVS4Ie/view?usp=sharing) | iamneo (NIIT) | Apr 2025 |
